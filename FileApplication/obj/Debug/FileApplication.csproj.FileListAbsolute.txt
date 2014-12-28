@@ -1,0 +1,6 @@
+D:\hohag\c# practice\FileApplication\FileApplication\bin\Debug\FileApplication.exe.config
+D:\hohag\c# practice\FileApplication\FileApplication\bin\Debug\FileApplication.exe
+D:\hohag\c# practice\FileApplication\FileApplication\bin\Debug\FileApplication.pdb
+D:\hohag\c# practice\FileApplication\FileApplication\obj\Debug\FileApplication.csprojResolveAssemblyReference.cache
+D:\hohag\c# practice\FileApplication\FileApplication\obj\Debug\FileApplication.exe
+D:\hohag\c# practice\FileApplication\FileApplication\obj\Debug\FileApplication.pdb
